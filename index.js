@@ -60,7 +60,7 @@ async function fetchandCreateCard(){
                    </div>
 
                    <div class="property">
-                    <span>Example:</span>
+                    <span>Example</span>
                     <span>${data.meanings[1].definitions[0].example}</span>
                    </div>
 
